@@ -1,19 +1,17 @@
 # ef52slk-oc-kitkat-kernel
-Để đáp ứng nhu cầu của vài anh em thích vọc vạch hôm nay em giới thiệu với các bác bản custom kernel. Đã add thêm nhiều govenor và scheduler, tweak siêu khủng khiếp :v D
+Để đáp ứng nhu cầu của vài anh em thích vọc vạch hôm nay em giới thiệu với các bác bản custom kernel. Đã add thêm nhiều govenor và scheduler, tweak siêu khủng khiếp
 
-Có nhiều bác kêu overclock lên 2ghz nhưng thấy hơi nóng và hao pin nên lại overclock lên 1.9ghz thôi :v, sắp tới sẽ là VEGAVIETX V2 : Giảm độ sáng màn hình trên nền stock 4.4
+Có nhiều bác kêu overclock lên 2ghz nhưng thấy hơi nóng và hao pin nên lại overclock lên 1.9ghz thôi :v, sắp tới sẽ là VEGAVIETX V2: Giảm độ sáng màn hình trên nền stock 4.4
 
-Để biết thêm về govenor và scheduler mấy bác vô đây đọc :
+Để biết thêm về govenor và scheduler mấy bác vô đây đọc:
 
 http://lgviet.com/forum/threads/tweak-optimized-all-kernel-va-info-all.14422/
 
-hoặc http://vegaviet.com/threads/119406/
-
-Thực hiện : huyparody
+Thực hiện: huyparody
 
 Kernel Source: http://opensource.pantech.com/
 
-Một số Governor đã thêm :
+Một số Governor đã thêm:
 
 + Intellimm
 
@@ -27,7 +25,7 @@ Một số Governor đã thêm :
 
 + BFQ
 
-Cách cài đặt : Có thể flash trên tất cả các nền Stock 4.4 (càng mới càng tốt)
+Cách cài đặt: Có thể flash trên tất cả các nền Stock 4.4 (càng mới càng tốt)
 Có thể lúc đầu sẽ ko kết nối được wifi nhưng chờ 1 lúc là được :D
 
 1 Số hình ảnh test thành công trên rom Sphinx bản L
